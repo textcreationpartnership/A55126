@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant dialogue betwixt honest John and loving Kate The contrivance of their marriage and way how to live. Readers, Her's a loving pair, shortly to be married are, honest John and loving Kate to each other prove a mate, I wish them both in joy to live since heart to each the other give.</title>
+            <title>Dialogue between honest John &amp; loving Kate.</title>
+         </titleStmt>
+         <extent>Approx. 41KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55126</idno><idno type="EEBO-CITATION">99832807</idno>
+  <idno type="VID">37281</idno>
+  <idno type="EEBO-PROQUEST">2240901037</idno>
+  
+            <idno type="STC">Wing P2543</idno>
+            <idno type="STC">ESTC R221509</idno>
+            <idno type="PROQUEST">99832807</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832807e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37281)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant dialogue betwixt honest John and loving Kate The contrivance of their marriage and way how to live. Readers, Her's a loving pair, shortly to be married are, honest John and loving Kate to each other prove a mate, I wish them both in joy to live since heart to each the other give.</title>
+                  <title>Dialogue between honest John &amp; loving Kate.</title>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Clarke W. Thackeray and T. Passinger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Stained and tightly bound, with slight loss of print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Courtship --  England --  Fiction --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37281:1"/>
+            <p>A Pleasant DIALOGUE Betwixt <hi>Honest Iohn and loving Kate.</hi>
+            </p>
+            <p>The Contrivance of their <hi>Marriage</hi> and way how to Live.</p>
+            <p>Readers,</p>
+            <lg>
+               <l>Her's a Loving Pair,</l>
+               <l>Shortly to be Married are,</l>
+               <l>Honest <hi>John</hi> and Loving <hi>Kate</hi>
+               </l>
+               <l>To each other prove a Mate,</l>
+               <l>I wish them both in joy to live</l>
+               <l>Since heart to each the other give.</l>
+            </lg>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Clar<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> W. Thackery</hi> and <hi>T. Passinger,</hi> 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:37281:2"/>
+            <pb facs="tcp:37281:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:37281:3"/>
+            <pb facs="tcp:37281:3"/>
+            <head>A pleasant <hi>DIALOGUE.</hi> Betwixt Honest <hi>IOHN</hi> and loving <hi>KATE,</hi> The contrivance of their Wedding and way how to live.</head>
+            <sp>
+               <speaker>John.</speaker>
+               <p>GOod morrow my dear <hi>Katy,</hi> methinks thou lookest coy to day; what's the matter prethée.</p>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <p>
+                  <hi>If I had been so at first to you I had been wiser.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Why so?</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Because I find you flatter me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>I scorn it, I am true to thee, in troth I am</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>How shall I believe that, when every one you meet, you are courting and kissing them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Who told you these stories, truly I never kiss any one but in mirth, for I will never marry any but thee my love.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I hear of your Roguery, that I do, pray what was that you said to Peg Ramskin 'tother day, did not you kiss her, and gripe her by the hand, and tell her you lov'd her dearly? and now she brags about the Town how she hath deceived me, the Devil take such love, if this be the love you have for me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Be not in such a passion, 'ile tell you how it was.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:37281:4"/>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I shall not hear you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Dear heart, hear me, by this kiss ile tell thee truth.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Well then.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>In troth 'twas onely thus, I was going to the mill with Corn, and by the way, I met with <hi>Pegg Ramskin,</hi> good morrow <hi>John</hi> said she, her's a cold morning, a cup of Ale would do well, I think so too said I, faith <hi>John</hi> ile joyn my penny with thee, I was ashamed to deny her, so we went in and called for one pot, the jade was very kind and took me by the hand and shak't it, <hi>John,</hi> said she, I believe you are in love you are so dumpish, O yes said I, you look so lively this morning, I thought you would fain be kist, I puld her by the arm, and in troth she e'n fell upon me, this was all and does this bold slut report that I love her? hang her impudence, ile kick her next time, ile see how she likes that kind of Love.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>This is onely because I know it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>I wish you would believe me, and not be thus jealous, pray be not so cruel to torment me thus, no whore of them all shall entice me from thee, O how I cou'd kick this jade.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Well let this pass, but what was that you said to the Widdow, these stories</hi> Iohn <hi>could not be raised of themselves.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>What gossiping slut troubles thee with these fooleries, they do't to make difference.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:37281:4"/>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Pray tell me truth of this also, and then I shall be satisfied.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>By this kiss I will my dear; I was in a place tother day drinking, and in came the Widdow <hi>Cragg,</hi> how now <hi>John</hi> said she, what will you dye a Batchellour? I think I must do so said I, for Maids are so coy, ther's no dealing with them, what think you of a widdow, they are more kind, will you have me said I, O <hi>John</hi> said she, you love to jest, I could do no less then kiss her, and so parted; when will ye come to my house <hi>John</hi> said she, what good cheer have you for a man said I, you shall have a cup of the best said she, and a good Gammon of Bacon: now thou knowest <hi>Kate</hi> I love Bacon well, and because I would not be seen with her alone, I took <hi>Will Summers</hi> with me, and spent six pence a piece, and did eat up half her Bacon, and when we were merry we kissed her; well Widdow, quoth I, I find now that widows are more kind than Maids, ile come again befo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Bacon be go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, with all my heart said she and welcome: This was all truly my sweet love, and does the fool report came a suiting to her, wanton who<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, ile ne'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> come within her doors more; I shall shun both Maids and widdows, unless in thy sight to make thee sport: but who tells thee these stories? prethee <hi>Kate</hi> tell me,</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>You must excuse me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>I will not urge but pray believe no more such
+<pb n="6" facs="tcp:37281:5"/> stories, for by my faith and troth I love thee, an if my year was up once, thou would find it so.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Well</hi> Iohn <hi>I must believe you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>But dost thou forgive me.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>With all my heart.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Pretty heart thou hast no gall in thee, do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou love me too?</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I do.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Sweet soul give me thy hand, and say afte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me these few words. I love thee <hi>John</hi> most dear<g ref="char:EOLunhyphen"/>ly.</p>
+            </sp>
+            <sp>
+               <speaker>Ka,</speaker>
+               <p>
+                  <hi>I love thee John most dearly.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Pretty soul, and dost thou truly? methink those words do sound so sweetly, that I mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> needs kiss thee for them; lets go somewhere an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drink, and then we will talk.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Whether should we go?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Here's very good drink at the Kings Arm and this is Holy day, so that we need not fear An<g ref="char:EOLunhyphen"/>ger for staying, let's go in,</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>What you will</hi> Iohn.</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Have you any room here.</p>
+            </sp>
+            <sp>
+               <speaker>Host.</speaker>
+               <p>
+                  <hi>Pray walk in Sir.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Bring hither some of your newest Cakes and a pot of your best Ale.</p>
+            </sp>
+            <sp>
+               <speaker>Host.</speaker>
+               <p>
+                  <hi>You shall have the best Sir,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Come honey, prethee eat.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I thank you</hi> Iohn.</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Her's to thee my dear, and a fart for all th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:37281:5"/> wanton Whores, thou shalt know I love thee,</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>What shall be the sign thereof.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>I will marry thee my dear when my year is up if thou wilt consent, what sayest thou, speak.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I must consider of it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>But what thinkest thou, is it not the best way to end all jealousies, and to make all Rascals and Sluts to leave their talking.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I think it must be so at last, but truly you cannot blame me for believing these reports, when in a fortnight or more I have not seen you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Poor heart I would see thee oftner, but that my Master would think I negliected his business, and besides, there is such flickering and laughing amongst the maids and children at your house when I come, as I am quite ashamed.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Ashamed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Not of thee my Birds-ny, and sometimes I meet your Mistriss and then I sneak, &amp; I could run into an augerhole if possible,</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>You being so bashful</hi> Iohn, <hi>I wonder how you came first to woe me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Oh thy pretty charming eyes would force any man to speak.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Don't flatter me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Thou knowest <hi>I</hi> don't let's talk now to the purpose, and observe the old proverb.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>What's that John.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Blessed is the woeing, that is not long'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:37281:6"/> doing, tis half a year since we begun, I think tis time to make an end, is it not, prithee say true</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>If we know how to live.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>How do other folks live.</p>
+            </sp>
+            <sp>
+               <speaker>Ka,</speaker>
+               <p>
+                  <hi>They <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hem before they marry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>So will we, lets spend this day in contriving for we shall never ave the like opportunity again, come lets walk a little if it be not too cold.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Better being in the house, for I think it will rain.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>What thou wilt my sweet love, well dear heart how shall we live, what will thy friends give thee</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>O are you come to that, I thought you would have taken me for love onely, and now it is what have you?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Be not angry my dear, if thou hast not a smock to thy back I would have thee, but in know<g ref="char:EOLhyphen"/>ing what each other hath, we shall know the bet<g ref="char:EOLhyphen"/>ter how to improve it, do thou the same by me.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Truly I have but ten pounds my father left me, and that is in my Ʋncle Hodge's hands.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Tis sure I hope.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>You need not doubt that, for he cannot keep it from me, and five pound I have gathered since I came to service, besides my Mistress owes me above half a years wages.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>O what a happy man shall I be, what a good housewife thou hast been, thou hast good <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>oathes too.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:37281:6"/>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>They will serve.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Now <hi>Kate</hi> I will tell thee what I have, my Father gave me ten pounds when I came from him, and told me as I did improve that, he would give me more, and with my Masters leave, I have imployed it in his Mault-house, and have encreased it; besides my master doth owe me my wages ever since I came to him, he would not let me have it for fear I should play the ill husband, and if I please him I know he will give me somthing when I marry, and so will thy Mistriss, will she not?</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I hope so too.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Now for the best advantage, thy s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ock and mine together, will amount to something; and when we have concluded our marriage day, ile try if my Master will let me have a little house and ground thou knowest hard by <hi>William Jacksons,</hi> that will make a great house for us,</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>And a great Rent too, what should we do with such a house, one Room will serve our turn.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Ay to sleep in my dear.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>But what trade <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o you intend to drive?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Give me leave and ile tell thée, and if thou wilt help me a little, it will be the b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter, for two heads are better than one, we must not take care only for sleeping places, but a place to get mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y in.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>How, that pleases me well to be getting of Money, for I love it dearly.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>I have almost broke my Brains with study<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:37281:7"/> &amp; contriving, but now I think I have hit out.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Tis long coming out.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>If my master will let me have the house we will brue good Ale, and we will have mault of our own, for we'l kéep a s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ock going in my Master's Mault-house, wlth his leave, and there is pasture enough to kéep two beasts, and convenicnces for hogs and poultery, so thou mayest have all things about thee, and kéep a maid and live like a Lady.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>This will be brave indeed John, but what shall we do with our Ale.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Sell it my swéet one; let me see, there are eight rooms in the house besides the Cellar, and with a little painting and a few benches it will be very fine, &amp; a handsome sign to draw in company.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>What shall that be.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>The thrée fair maid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, I think.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Not for a hundred pound I would not have such a sign.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Why prithee.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Why man <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hey'd think surely we kep t a baw<g ref="char:EOLhyphen"/>dy house.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>What then shall we have, do you tell me?</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>The th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee F<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>lers I think and then they will judge they may have Musick.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Thou hair pleased me mightily, but how dost like my motion and contrivance,</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Very well indeed, I thought you had not had so much in you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:37281:7"/>
+               <speaker>Jo.</speaker>
+               <p>Oh ho <hi>Katy,</hi> though I am but a Clown, I amno fool I think, but how dost thou like such an imployment?</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Very well truly if it will not make thee an ill Husband.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Thou pretty Pig-ny thou, that word sounds so finly out of thy mouth, that I must needs kiss thee for it; be sure my dear I shall mind my business and when I have drink always by me <hi>I</hi> shall not desire it, only to drink a cup with thee in the morning.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>That will please me, for I love Ale very well but good lack, I shall grow as fat as a bear with drinking every day.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>No matter for that, thou wilt be the better to kiss.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I like all very well, but pray be speedy, least another take it before you, and get a License, for time runs away apace.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>I</hi> know he will not deny me to morrow I will move it to him &amp; bring thee word, but a pes<g ref="char:EOLhyphen"/>cods out, I cant abide to be seen at your house.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Cannot you meet me in the fields when I am milking my Kine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>I will, that's well thought on.</p>
+            </sp>
+            <sp>
+               <speaker>Ka,</speaker>
+               <p>
+                  <hi>Well now, we had as good make an end since we have begun, what shall we make a money dinner, or not, that would help us well.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Marry would it: dost think thy mistriss will not let thee keep our Wedding at her house:</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:37281:8"/>
+               <speaker>Ka,</speaker>
+               <p>
+                  <hi>I doubt not but she will, for I have been a good servant to her though I say it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>If she will do so, it will be a grace and ad<g ref="char:EOLhyphen"/>vantage to us, and then I will invite my master &amp; his Family, wilt thou then resolve to marry with me at Easter.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>It had as good be done and past, since it must be done at last.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>I think so too, but how shall we do to lay out the money for all things, for if we let the stock go, I shall fear the gathering of it together again but now I think out, my credit is good.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>What shall we do for Clothes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>In troth <hi>Kate</hi> we will fave that money, those that we have will serve very well.</p>
+            </sp>
+            <sp>
+               <speaker>Ka,</speaker>
+               <p>
+                  <hi>I think so too.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Only I will have a hat &amp; a Gold ring for thee</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Who shall we bid to our Wedding.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>All who we can think of, the more the merrier</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>What Musick shall we have.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo,</speaker>
+               <p>We will have old <hi>Rowly</hi> and his company.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>They will make a roaring noise.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>And they will sing well too, to please the young people; why dost laugh, does the thoughts of it please thee.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I laugh to think how the young men will turn the Lasses about in dancing, and how they will buss them, methinks I see them already, but good lack how shall I do to behave my self at that time
+<pb n="13" facs="tcp:37281:8"/> amongst so many; I shall be so ashamed I shant know what to do.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo,</speaker>
+               <p>Why priethee all people will adore thee that day, and I shall be woundy proud of thee my Dear to see thee sit as a Virgin-Bride, and <hi>I</hi> shall wait upon thée too that same day, as it is my duty.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Is that the fashion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo,</speaker>
+               <p>Yes my dear, hast thou never observed it at weddings.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I shall observe my own the more, but you must not look towards me, for then I shall laugh and that will shame me quite.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>No my dear a smile sometimes will do well they'l think there's the more love.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Must I dance too.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Ay pretty one, every body will strive to dance with the Bride.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Ide rather dance with thee John, than with them all.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>So thou shalt my dear.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>What Favours shall we give.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Red and blew I think.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>They will look gloriously, but all this while who shall lead us to Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>Tom Sims,</hi> and <hi>Roger Blackwel</hi> shall lead thée, and <hi>Mary Tomkins</hi> and <hi>Bess Ruglas</hi> stall lead me.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I shant be able to go along the street, the folk will so look at me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:37281:9"/>
+               <speaker>Jo.</speaker>
+               <p>No matter for their looking, 'ile warrant thee who ever sees thee will wish her self in the same condition, who are not married already.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Will they think you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>I</hi> faith i'l warrant you.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Who shall marry us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>M. Timson.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Oh dear he will keep such a do to have me speak out that I shant know what to do with my self</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Thou must not be ashamed my dear, for it is an honour to be a bride.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Who shall be my Father to give me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Thou mayest ask <hi>Jack Wheeler,</hi> but I know he had rather had thee himself.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Oh fie no, I will not ask him, he will take it for an affront, I will rather ask old father</hi> Randol <hi>for he us'd to call me Daughter, and he will take it kindly.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Do then.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Does it not make you ashamed to talk of these things.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>No I promise thee, I am proud of it, and so art thou I believe, but that thou wilt not confess it</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I would it were once over.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>So would I, i'd as live as a groat.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Who shall make the Sack Posset.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>The Bride-maids will take care of that.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Good lack they will keep such a do when they come in to eat it, and taking their leaves of us, and throwing the stocking, and one thing or other, that I shall wish them all far enough.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:37281:9"/>
+               <speaker>Jo.</speaker>
+               <p>So shall I but we must lye the longer next <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rning.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>But I forgot one thing, who shall dress me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>It is a thousand pities but thou shouldst <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arry, thou thinkest of every thing so, the Bride<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aids my dear will dress thee</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Where shall we lye the next night.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>In our own house that will be the best, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erefore we must furnish it before, and lay in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me Ale, that we may be able to invite all the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edding people to drink with us, and then we <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oll have good handsel indeed, and we will also <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve a good Gammon of Bacon, and that will <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake the drink go down merrily.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>What maid shall we have?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>We will ha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lusty wench, who may be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le to do our work, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r fourty shillings the year <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e may have one.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Now I think we have thought of every thing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t's consider what time of the day it is.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>VVill thy Mistriss chide thee thinkst thou</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Ay and your Master too I believe if you do <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot make haste home.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>VVhat's a Clock, not above six I trow.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Loves Dial goes but slow, I believe it is six <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t the least, and then I shall be hanged.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Alas poor thing hanged, call me and I will <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut the Rope, what humors thy mistriss of, she <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooks frowningly.</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:37281:10"/>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Truly she is very good when she is please<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> but she is develish peevish, she will fret and f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> sometimes for a very small matter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>sI that the goodness, the Devil's good whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pleas'd, my Master he is angry too, but faith I f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him for it, for when he begins to chide, I get m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out of doo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and come no more in that night.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Youl serve me so I fear.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Ay if you chide.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>In troth I shall chide you if you come hom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> drunk, for ime sure they that love drinking lov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whoring.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Thou shalt see what a husband 'ile be.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I would I could once, but now <hi>John</hi> I sit up<g ref="char:EOLunhyphen"/>on thorns, my Mistriss will be very angry with me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>So shall if you go <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you must learn t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> humour me now.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Dont hold my hand for I must be gone, y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cannot tell how humor some she is, there chanc'd to b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> but one hair in the pudding tother day at table, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> she did maunder, I thought she would never hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> been quiet. Ile tell you a good jest above a week ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> she sent me to the Shoomaker for her new shooes, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> because she had them not, she made a hundred ver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> faces at me, and sate fleering in her Looking-glas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> an hour or more, that I could not forbear laughing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>She is horrible proud I believe, pox on he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> humour I am humoursome too.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Pray dont hold me I must be gone.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Come, come over boots over shooes, we'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:37281:10"/> as good make up the day now, &amp; then one chiding will serve for all, I look for a storm too, but my M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ster is pretty good natur'd if he ask me where <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have been, ile be plain to him, and tell him <hi>I</hi> have been with thee, ay, and bid him to our wedding too, he loves mirth.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>You do not think how impatient I am with staying Oh my Mistriss, my Mistriss.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>You shall have a Master shortly worth ten of her, come stay alittle, i'le sing thee a fine Song of my own making.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I never knew you were a Poet before, let me hear it quickly.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Love makes me very eloquent, I never had so much wit, as since <hi>I</hi> met with thee, <hi>I</hi> think it comes from thee to me.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Perhaps so too, for i'm sure I never had so little as since I met with you I did wonder what was become of it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Thou hast enough still methinks, and that thou hast lent me, <hi>I</hi> will improve it if <hi>I</hi> can.</p>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <p>
+                  <hi>What's your song then I shall judge.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Come sweet Duck, <hi>I</hi> will begin, <hi>I</hi> made it the other day as <hi>I</hi> was in the Mault-house, &amp; when <hi>I</hi> had done turning the Mault, <hi>I</hi> sat down and re<g ref="char:EOLhyphen"/>peated it, and played the tune on my Flagellet, &amp; methought it went so sweetly, it ravisht me.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I would I could hear it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Hum, hum, hum.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:37281:11"/>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>You'd best wet your whistle first, for I see thy Popes are stopt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>I'll take thy councel, hers to thee <hi>Katy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I thank you John now pray begin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <l>
+                  <hi>Phillis</hi> lov'd her <hi>Corrydon.</hi>
+               </l>
+               <l>
+                  <hi>Phillis</hi> lov'd her <hi>Corridon.</hi>
+               </l>
+               <l>So does <hi>Katy</hi> her dear <hi>John.</hi>
+               </l>
+               <l>
+                  <hi>If I</hi> may believe her:</l>
+               <l>For which <hi>I</hi> ever will prove true,</l>
+               <l>And never will <hi>I</hi> leave her.</l>
+               <l>I have danc't with her full oft</l>
+               <l>
+                  <hi>I</hi> have danc't with her full oft</l>
+               <l>She gives me many kisses soft</l>
+               <l>And winks on me with pleasure.</l>
+               <l>She is my dear and only joy.</l>
+               <l>She is my greatest treasure.</l>
+               <l>If she will be rul'd by me</l>
+               <l>If she will be rul'd by me</l>
+               <l>Shortly married we will be</l>
+               <l>And live in mirth and gladness</l>
+               <l>For now we do but lose our time</l>
+               <l>And alwayes live in sadness.</l>
+               <l>To her always will <hi>I</hi> prove</l>
+               <l>To her always will <hi>I</hi> prove</l>
+               <l>Constant as the Turtle Dove</l>
+               <l>In no wise i'll deceive her</l>
+               <l>Till death us part</l>
+               <l>None has the art</l>
+               <l>Of my Love to bereave her</l>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:37281:11"/>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Obrave John I see you think on me when you do not see me, I did not think indeed you had been so good a Schollar pray how long did you go to School.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Not long, for I had more mind to go to plow and look after my Fathers Horses, then to learn my book, yet <hi>I</hi> was pretty apt, for by that time <hi>I</hi> was fourteen <hi>I</hi> could read the Psalter pretty well now <hi>Katy</hi> prethee do thou sing a song, and then we will part for this time.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>What song shall I sing, I know not.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Any one will be sweet from thee.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>If you will not laugh at me, I will sing as well as I can, I promise you I was counted good at singing once but now I have forgot, love hath spoiled my voice</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Love mends it, prethee begin.</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <l>My love is to <hi>New England</hi> gone</l>
+               <l>And leaves me here a mourning,</l>
+               <l>There's nothing <hi>I</hi> can eat or drink,</l>
+               <l>
+                  <hi>I</hi> spend my time in groaning:</l>
+               <l>If he will but return to me.</l>
+               <l>
+                  <hi>I</hi> will shew him more kindness</l>
+               <l>
+                  <hi>I</hi> never will be coy no more,</l>
+               <l>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r sure tis a blindness.</l>
+               <l>If he will be but kind to me,</l>
+               <l>To please him ile be willing,</l>
+               <l>Ile wash his hands his shirts and hose,</l>
+               <l>And daily will <hi>I</hi> mend them.</l>
+               <l>And nere shall he want money more.</l>
+               <pb n="20" facs="tcp:37281:12"/>
+               <l>For mine sle freely lend him,</l>
+               <l>Sweet <hi>George</hi> if thou knowest my heart,</l>
+               <l>Thou wouldst make haste unto me.</l>
+               <l>I do repent of what is past,</l>
+               <l>Thy absence doth undoe me.</l>
+               <l>god <hi>Cupi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore draw thy bow,</l>
+               <l>And wound his <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>art f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll sorely</l>
+               <l>For if he ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er come again</l>
+               <l>
+                  <hi>I</hi> shall live <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e but poorly.</l>
+               <l>Maidens all be rul d by me,</l>
+               <l>To true love be not slighting,</l>
+               <l>For rather then men will love such maids</l>
+               <l>They will go sorth to sighting.</l>
+               <l>Then let all ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd their time,</l>
+               <l>And while the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may go marry,</l>
+               <l>For if they stay till t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow stale</l>
+               <l>They may fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ever tarry.</l>
+               <l>
+                  <hi>There's all</hi> John <hi>now do you like it.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Very well, a kind Lass i'le warrant her, well I will not serve the<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, ile stay &amp; live with my love</p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>Well let's go, in troth we shall go near to spoil our wedding with this dayes work, for certainly we shall both be soundly chidden.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>For my part <hi>I</hi> will begin with my master first and tell him that <hi>I</hi> am coming into the honourable estate of Matrimony, and that <hi>I</hi> hope he will grace my VVedding with his company, &amp; if he storm at me, <hi>I</hi> will desire him to remember his own condi<g ref="char:EOLhyphen"/>tion, &amp; if it be an evil thing to marry <hi>I</hi> wil ask him
+<pb n="21" facs="tcp:37281:12"/>
+                  <hi>why his worship did fet me such an example? for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e loved his wife so well that he doth adore the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ery thoughts of her, and so talks of her, that he made me almost mad to know what a wife was, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure some hidden treasure is in a married life, be<g ref="char:EOLhyphen"/>cause every one strives to be of that rank.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I <hi>believe so too, or else so many would not de<g ref="char:EOLhyphen"/>sire it, Maids are only made much of by young men, and if they be too kind they are laught at, but mar<g ref="char:EOLhyphen"/>ried folks are accepted of in all company; and in<g ref="char:EOLhyphen"/>vited to Weddings, Christnings, Gossipings, Buri<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>als, &amp; to all merry meetings, which please me well.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>I hope they shall come a Gossiping to thee shor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly, and by that time I shall look soberly, and bid <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he women welcome, what dost blush at it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>It would make one blush to hear you talk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>Well, what wilt thou say to thy Mistriss?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>My best way is to let her chide so long as she pleases, and then ile confess my self in a fault &amp; ask pardon, and then she will be pleased again.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>Thou hast a great deal of patience, I com<g ref="char:EOLhyphen"/>mend thee for it, I hope thou wilt have some with me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>We must bear with one another, but if we dis<g ref="char:EOLhyphen"/>please a Master or Mistriss, some are so crabed, they will turn one out of doors, but if we be angry one with another, we must be friends again, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n my Mistriss hath spoken all her mind, and is again in a good humour, then I will make her my Councellour
+<pb n="22" facs="tcp:37281:13"/> and bid her to my Wedding, for she loves one should trust her with secrets: the mischief <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. I know not how to go in first of all, had I but m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e a bargain I would not care, and now it is dark, I fear I shall lose my way.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>Well I will go with thee now, I cannot be seen, and if she falls out foul with thee, call me and ile take thy part, for thou shalt not be a slave to her, no marry shalt thou not.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>If goody <hi>Sho</hi> hath not milkt my kine, it will be worse, <hi>I</hi> wish she have, <hi>I</hi> would have bid her do so if <hi>I</hi> had known <hi>I</hi> should have staid so long.</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>Let's reckon what is to pay; let me see, we have had three Cakes and four Pots of Ale, and two Pipes of Tobacco, that's fifteen pence.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>We must not use to spend so much in an Ale<g ref="char:EOLhyphen"/>house.</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>The best bargains are made there &amp; I hope thee and I have made a good one.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I</hi> should be sorry else.</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>I would it were sealed once.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>All in good time.</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>Host good buy to you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Host.</speaker>
+               <p>You are welcome Sir,</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>Give me thy hand prethee.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka,</speaker>
+               <p>My heart doth ake! know not what to do.</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>Pluck it up woman do not fear.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I</hi> would <hi>I</hi> were out of this slavery.</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>'Tis but four months and thou shalt, how
+<pb n="23" facs="tcp:37281:13"/> pleasant it is to walk with thee, though in the dark.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I</hi> pitty your journey home, but <hi>I</hi> shall never <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rouble you again for such another, well now <hi>John</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood buy to you, remember all things, order your matter wisely, and not forget to send me word, for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> shall long to hear, <hi>I</hi> shall look for you every minute <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o morrow in the evening, and if you deceive me, you will break my heart.</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>Fear not, if it Rains Cats and Dogs I will come.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>That's true love indeed, <hi>I</hi> shall go about my work so merrily if my Mistriss will but forgive me <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his one fault, that <hi>I</hi> shall not feel the ground <hi>I</hi> go on, oh what it is to be pleased, God be with you good <hi>John.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>God be with you sweet one, my Duck my dear, my Pig's-ny, when we do meet to morrow, we will conclude all more firmly; here, take my heart and a hundred kisses besides with it, and keep them till I see thee.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ka.</speaker>
+               <p>
+                  <hi>I</hi> cannot see neither.</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>
+                  <hi>They are only felt my dear, once more, far thee well, heavens favour me as I prove true to thee.</hi>
+               </p>
+               <p>
+                  <hi>Kate speaks to her self as she goes home;</hi> My poor <hi>John,</hi> how loving has he been to me this day; <hi>I</hi> am heartily sorry <hi>I</hi> snapt him up so, surely he was innocent, must <hi>I</hi> be married suddenly and be called goody <hi>Lawrence. <hi>I</hi>
+                  </hi> shall then hardly know my self, my dear <hi>Iohn,</hi> what a many pretty charming words
+<pb n="24" facs="tcp:37281:14"/> he had for me, &amp; what a fine song he made him<g ref="char:EOLunhyphen"/>self of me, surely <hi>I</hi> shall not sleep till <hi>I</hi> do hear how our business goes forward, neither do <hi>I</hi> be<g ref="char:EOLhyphen"/>leive will he, for love is a terrible thing.</p>
+               <p>It wounds the heart it breaks the brain,</p>
+               <p>It makes one alwaps live in pain.</p>
+               <p>
+                  <hi>John <hi>talkes to himself as he goes, what a joyful day this hath been; If I could but recount every days action to be so good, surely then I should, without doubt, get to Heaven in a short space, let me but reckon up what I have done to day; I have seen my dear love to day, &amp; made my peace with her, and have gotten her consent to marry, and we have appointed the very time, and have contrived all things to my hearts content, that I could even leap for joy, poor heart, she was almost jealous of me, but now I have fully satisfied her, and shortly all fears will vanish away from us, I will have a special care for the future how to order things, &amp; surely be with her to morrow in the evening, for fear I should anger her again, for she doth look so pretily when she smiles, that it is a thousand pit<g ref="char:EOLhyphen"/>ties that ever she should be displeased any more.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>Well my dear <hi>Katy,</hi> I must think on my master now, and study what to say to him for my long ab<g ref="char:EOLhyphen"/>sence from him, therefore my dear <hi>Katy</hi> I must forbear the sweet thoughts of thee for a season.</hi>
+               </p>
+               <lg>
+                  <l>Farewell a while, to thee my Love adieu,</l>
+                  <l>To thee, dear <hi>Kate,</hi> I will for ay prove true.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37281:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
